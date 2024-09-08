@@ -1,6 +1,6 @@
 ![MasterHead](banner.png)
-<h1 align="center">Hey , I'm Pragat Mittal</h1>
-<h3 align="center">A amazing full stack developer from India</h3>
+<h1 align="center">Hey, I'm Pragat Mittal</h1>
+<h3 align="center">An amazing full stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="Trending topics on Tumblr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragatmittal&label=Profile%20views&color=0e75b6&style=flat" alt="pragatmittal" /> </p>
