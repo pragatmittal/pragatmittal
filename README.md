@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓 2nd Year B.E. CSE Student at Chitkara University.
+- 🎓 3rd Year B.E. CSE Student at Chitkara University.
 - 💻 Passionate about Web Development, AI/ML, Blockchain, and DevOps.
 - 🌱 Currently mastering **MERN Stack, React, Next.js, Tailwind CSS, and Advanced JavaScript**.
 - 👨‍💻 Solved **250+ DSA problems**, focusing on **Data Structures & Algorithms**.
